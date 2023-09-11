@@ -1,3 +1,3 @@
-# mysite
+# HTML based webpage
 
-## from Angela Yu's Udemy course
+Insipired from Angela Yu's Udemy course
